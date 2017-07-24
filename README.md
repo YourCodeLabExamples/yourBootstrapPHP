@@ -8,3 +8,6 @@ Firstly, the students will produce some prototypes with the draw.io modeling too
 Then, some diagrams such as the UML Class and ERD (Entity-Relation Diagram) Database Diagrams will be elaborated to specify the technical solution. Next, the solution will be developped using the Bootstrap framework and PHP script language. The data will be stored in the MySQL database.
 
 The entire life-cycle will be documented in this repository, using the project's wiki.
+
+References:
+http://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte1/
